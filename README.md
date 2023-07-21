@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Button-component}</h1>
+<h1 align="center">Button-component</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://button-devcomponent.netlify.app">
       Solution
     </a>
     <span> | </span>
@@ -61,5 +61,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@kingsholly](https://{github.com/kingsholly})
-- Twitter [@king_sholy](https://{twitter.com/king_sholy})
+- GitHub (https://github.com/kingsholly)
+- Twitter (https://twitter.com/king_sholy)
